@@ -1,2 +1,2 @@
-# user-allow-location
+# user-location-onclick
 User allow location onclick
